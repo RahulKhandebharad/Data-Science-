@@ -1,2 +1,1 @@
-#Data Science
-##This Repository contains all about Data Science from scratch to advanced.
+This Repository contains all about Data Science from scratch to advanced.
